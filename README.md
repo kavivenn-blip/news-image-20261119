@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
-One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 two-line briefs, a BY THE NUMBERS strip, and a verification footer.
+One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 one-line briefs, a BY THE NUMBERS strip, and a verification footer.
 
 ## How it works
 

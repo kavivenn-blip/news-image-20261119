@@ -1,7 +1,14 @@
-# RESEARCH — news-image-20261119: Thursday 19 November 2026 (revisi ke-2, 44 cerita)
+# RESEARCH — news-image-20261119: Thursday 19 November 2026 (revisi ke-11, 44 cerita)
 
 Every story below was reported on Thursday 19 November 2026 (event happened or
 was first reported that day, any time zone). One fact per line, with its source.
+Revisi ke-11 (19 Nov ~19:45 WIB): brief #28 = APEC Shenzhen Declaration
+(pengganti ASX — Oseania terlemah kedua); APEC TERVERIFIKASI Kamis 19 Nov
+(di bawah: 3 sumber independen pasca-penutupan; konfirmasi Reuters/AP/BBC/
+Xinhua dan halaman apec.org BELUM ditemukan — dicatat sebagai caveat).
+SEMUA brief 19–44 kini 1 baris (dipadatkan dari fakta yang sudah terverifikasi,
+tanpa fakta baru). Bar region: ASIA 6, OCEANIA 9; total tetap 44;
+SYDNEY 3→2, SHENZHEN 2 (baru di daftar kota).
 Revisi ke-9 (19 Nov ~16:30 WIB): brief #23 = COP31 Antalya (pengganti Bancroft,
 Perth — Oseania terlemah); COP31 TERVERIFIKASI Kamis 19 Nov (teks baru due Kamis
 pagi, sidang pleno penutup mulai Kamis, 21 isu belum selesai; draft usulkan
@@ -104,7 +111,17 @@ ulang dari label kota di gambar.
     Source: NYT.
 26. Australia sanctions Israeli settlement entities (Canberra). Source: The West.
 27. RBA board split over November rate rise (Sydney, RBA HQ). Source: The West.
-28. ASX falls for a fifth straight session (Sydney). Source: The West.
+28. APEC leaders adopt the Shenzhen Declaration (Shenzhen) — Leaders'
+    Declaration of the 33rd APEC meeting, published/released Thursday as the
+    talks concluded; roadmap for trade, connectivity and innovation (the
+    Shenzhen Vision). Sources: Sputnik wire 19 Nov ("published on Thursday
+    a declaration"), USA Today 19 Nov ("statement released as the talks
+    concluded"), intinsight 19 Nov ("unanimous adoption"). CAVEAT: no
+    Reuters/AP/BBC/Xinhua report explicitly confirming adoption was found,
+    and APEC's declarations page still listed 2025 Gyeongju as most recent
+    at the last pre-close checks (18 Nov; The Edge 09:13 GMT 19 Nov) — page
+    may lag the close. NOT the trilateral "Declaration Towards Peace"
+    (lead #1) and NOT the CEO Summit "Shenzhen Initiative" (Wednesday).
 29. Australia's gender pay gap falls below 20% for the first time (national).
     Source: NewsHub.
 30. Morocco unveils defence roadmap: 50,000 jobs, 65% exported by 2035 (Rabat).
@@ -148,11 +165,11 @@ ulang dari label kota di gambar.
 
 44 stories, 6 continents + world (wilayah = lokasi peristiwa):
 EUROPE 7 (2, 5, 6, 23, 35, 39, 40) · AMERICAS 9 (7, 12, 13, 14, 18, 25, 36, 37, 38)
-· ASIA 5 (1, 8, 10, 11, 34) · MIDEAST 5 (3, 4, 16, 17, 24) ·
-AFRICA 6 (20, 30, 31, 32, 33, 41) · OCEANIA 10 (9, 19, 22, 26, 27, 28, 29,
-42, 43, 44) · WORLD 2 (15, 21). Total 7+9+5+5+6+10+2 = 44.
+· ASIA 6 (1, 8, 10, 11, 28, 34) · MIDEAST 5 (3, 4, 16, 17, 24) ·
+AFRICA 6 (20, 30, 31, 32, 33, 41) · OCEANIA 9 (9, 19, 22, 26, 27, 29,
+42, 43, 44) · WORLD 2 (15, 21). Total 7+9+6+5+6+9+2 = 44.
 Masthead "44 STORIES" = jumlah aktual di gambar. Kota dengan 2+ cerita (dari
-label kota di gambar): WASHINGTON 4 · SYDNEY 3 · PERTH 2 · NEW YORK 2 ·
+label kota di gambar): WASHINGTON 4 · SYDNEY 2 · SHENZHEN 2 · PERTH 2 · NEW YORK 2 ·
 TOKYO 2 · GAZA 2 · CANBERRA 2 · LONDON 2.
 
 ## Deliberately left out
@@ -177,5 +194,11 @@ top-10 TERVERIFIKASI Rabu 18 Nov dan SENGAJA TIDAK ditambahkan (lapangan salah
 tanggal): Mélenchon (Reuters 18 Nov 10:12 UTC), cocaine Libya (Reuters 18 Nov
 08:34 UTC; Derna, bukan Benghazi), Florida floods (CNN 18 Nov; hujan Selasa
 malam → Rabu pagi), Duckett 133 (match Rabu 18 Nov, Hobart bukan Sydney).
-APEC Shenzhen Declaration: TIDAK TAHU (adopsi ditargetkan Kamis, belum
-terkonfirmasi) — tidak ditambahkan.
+APEC Shenzhen Declaration: KAMIS (re-verifikasi 19 Nov ~19:45 WIB, perintah
+user rev-11) — 3 sumber independen pasca-penutupan: Sputnik wire ("published
+on Thursday a declaration"), USA Today ("statement released as the talks
+concluded"), intinsight ("unanimous adoption", agregator); foto banner resmi
+"DECLARATION OF THE APEC ECONOMIC LEADERS 2026 — SHENZHEN, NOVEMBER 19, 2026".
+Caveat: konfirmasi Reuters/AP/BBC/Xinhua dan apec.org BELUM ditemukan.
+DITAMBAHKAN sebagai #28 (ganti ASX). 4 cerita lain tetap TIDAK ditambahkan
+(Rabu): Mélenchon, cocaine Libya, Florida floods, Duckett 133.
