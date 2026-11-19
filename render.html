@@ -40,14 +40,15 @@ h1.date { font-size:25px; line-height:1.05; letter-spacing:1px; font-weight:900;
 .briefs-head .tag { float:right; background:#b3261e; color:#fff; font-size:8.5px; letter-spacing:1px; padding:1px 6px; }
 .briefs { display:grid; grid-template-columns:1fr 1fr; gap:0 14px; margin-top:2px; }
 .brief { font-size:9px; line-height:1.2; min-height:24px; margin-bottom:0; padding:1px 0; border-bottom:0.5px solid #d8d0bd; }
-.brief b { color:#b3261e; }
+.brief .chip { display:inline-block; color:#fff; font-size:8.5px; font-weight:bold; line-height:1.2; padding:0 4px; border-radius:2px; margin-right:3px; }
+.brief b { color:#16213a; }
 .brief .src { font-size:8px; color:#6b7280; }
 .numbers { display:flex; margin-top:4px; border-top:2px solid #16213a; border-bottom:2px solid #16213a; }
 .num-cell { flex:1; text-align:center; padding:0 2px; }
 .num-cell + .num-cell { border-left:1px solid #c9c2ae; }
 .num-cell .v { font-size:14px; font-weight:900; color:#b3261e; line-height:1.1; }
 .num-cell .l { font-size:8.5px; line-height:1.2; margin-top:1px; }
-.datecheck { margin-top:3px; border:1.5px solid #7f1d1d; background:#7f1d1d; color:#fff; padding:1px 8px; font-size:8px; line-height:1.35; }
+.datecheck { margin-top:3px; border:1.5px solid #b3261e; background:#b3261e; color:#fff; padding:1px 8px; font-size:8px; line-height:1.35; }
 .datecheck b { color:#ffd21f; }
 .footer { font-size:8.5px; text-align:center; margin-top:0; line-height:1.35; color:#3a3a3a; }
 </style>
@@ -273,34 +274,34 @@ h1.date { font-size:25px; line-height:1.05; letter-spacing:1px; font-weight:900;
     <div class="briefs-head">ALSO ON THURSDAY 19 NOVEMBER &mdash; 19&ndash;44<span class="tag">26 MORE STORIES</span></div>
     <div class="briefs">
       <div>
-        <div class="brief"><b>19. SYDNEY:</b> Sydney opens the world premiere; Julien Anton wins with a seahorse portrait. <span class="src">&middot; NEWSHUB</span></div>
-        <div class="brief"><b>20. KENYA:</b> Heavy rain floods Kenya, displacing hundreds from their homes. <span class="src">&middot; DAILY NATION</span></div>
-        <div class="brief"><b>21. LONDON:</b> Nature&rsquo;s new issue leads with &ldquo;Stepping Stones&rdquo;, the story of a desert settlement. <span class="src">&middot; NATURE</span></div>
-        <div class="brief"><b>22. NEW ZEALAND:</b> Bumrah removes Latham for a duck off the third ball on day one of the first India&ndash;New Zealand Test. <span class="src">&middot; CRICTRACKER</span></div>
-        <div class="brief"><b>23. PERTH:</b> Bancroft breaks his silence on sandpaper; Warner backs him. <span class="src">&middot; THE WEST</span></div>
-        <div class="brief"><b>24. DOHA:</b> The Rising Stars Asia Cup kicks off in Doha today. <span class="src">&middot; WISDEN</span></div>
-        <div class="brief"><b>25. WASHINGTON:</b> Trump weighs new strikes on Iran as Israel presses him to act. <span class="src">&middot; NYT</span></div>
-        <div class="brief"><b>26. CANBERRA:</b> Canberra imposes sanctions on Israeli settlement entities. <span class="src">&middot; THE WEST</span></div>
-        <div class="brief"><b>27. SYDNEY:</b> The RBA board split over November&rsquo;s rate rise at its Sydney meeting. <span class="src">&middot; THE WEST</span></div>
-        <div class="brief"><b>28. SYDNEY:</b> The ASX falls for a fifth straight session. <span class="src">&middot; THE WEST</span></div>
-        <div class="brief"><b>29. AUSTRALIA:</b> Australia&rsquo;s gender pay gap falls below 20% for the first time. <span class="src">&middot; NEWSHUB</span></div>
-        <div class="brief"><b>30. RABAT:</b> Morocco unveils defence roadmap: 50,000 jobs, 65% exported by 2035. <span class="src">&middot; HESPRESS</span></div>
-        <div class="brief"><b>31. ACCRA:</b> Bad loans at Ghana&rsquo;s banks fall to 13.1% in October. <span class="src">&middot; MYJOYONLINE</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">19</span> <b>SYDNEY:</b> Sydney opens the world premiere; Julien Anton wins with a seahorse portrait. <span class="src">&middot; NEWSHUB</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">20</span> <b>KENYA:</b> Heavy rain floods Kenya, displacing hundreds from their homes. <span class="src">&middot; DAILY NATION</span></div>
+        <div class="brief"><span class="chip" style="background:#6b7280">21</span> <b>LONDON:</b> Nature&rsquo;s new issue leads with &ldquo;Stepping Stones&rdquo;, the story of a desert settlement. <span class="src">&middot; NATURE</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">22</span> <b>NEW ZEALAND:</b> Bumrah removes Latham for a duck off the third ball on day one of the first India&ndash;New Zealand Test. <span class="src">&middot; CRICTRACKER</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">23</span> <b>PERTH:</b> Bancroft breaks his silence on sandpaper; Warner backs him. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#b7791f">24</span> <b>DOHA:</b> The Rising Stars Asia Cup kicks off in Doha today. <span class="src">&middot; WISDEN</span></div>
+        <div class="brief"><span class="chip" style="background:#2e7d32">25</span> <b>WASHINGTON:</b> Trump weighs new strikes on Iran as Israel presses him to act. <span class="src">&middot; NYT</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">26</span> <b>CANBERRA:</b> Canberra imposes sanctions on Israeli settlement entities. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">27</span> <b>SYDNEY:</b> The RBA board split over November&rsquo;s rate rise at its Sydney meeting. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">28</span> <b>SYDNEY:</b> The ASX falls for a fifth straight session. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">29</span> <b>AUSTRALIA:</b> Australia&rsquo;s gender pay gap falls below 20% for the first time. <span class="src">&middot; NEWSHUB</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">30</span> <b>RABAT:</b> Morocco unveils defence roadmap: 50,000 jobs, 65% exported by 2035. <span class="src">&middot; HESPRESS</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">31</span> <b>ACCRA:</b> Bad loans at Ghana&rsquo;s banks fall to 13.1% in October. <span class="src">&middot; MYJOYONLINE</span></div>
       </div>
       <div>
-        <div class="brief"><b>32. DAR ES SALAAM:</b> Tanzania and Uganda ease trade barriers between them. <span class="src">&middot; DAILY NEWS TZ</span></div>
-        <div class="brief"><b>33. HARARE:</b> Zimbabwe&rsquo;s lawyers challenge the term-limit amendment. <span class="src">&middot; NEWSDAY</span></div>
-        <div class="brief"><b>34. TOKYO:</b> Tokyo&rsquo;s Tori no Ichi festival opens for Ni-no-Tori at Asakusa&rsquo;s shrine. <span class="src">&middot; OTORI SHRINE</span></div>
-        <div class="brief"><b>35. SICILY:</b> Bayesian report finds &ldquo;unidentified vulnerability&rdquo; to high winds. <span class="src">&middot; GUARDIAN</span></div>
-        <div class="brief"><b>36. WASHINGTON:</b> Obama urges House Democrats to keep reaching red districts. <span class="src">&middot; NYT</span></div>
-        <div class="brief"><b>37. WASHINGTON:</b> Trump &ldquo;disappointed&rdquo; Vance won&rsquo;t back Iran war; praises Rubio. <span class="src">&middot; NYT</span></div>
-        <div class="brief"><b>38. REDMOND:</b> Microsoft&rsquo;s Nadella explains why he asked 60,000 staff to leave. <span class="src">&middot; TECHCRUNCH</span></div>
-        <div class="brief"><b>39. LONDON:</b> BBC finds new sexual harassment claims at McDonald&rsquo;s. <span class="src">&middot; BBC</span></div>
-        <div class="brief"><b>40. KYIV:</b> Russia intensifies strikes on Ukraine&rsquo;s power grid. <span class="src">&middot; REUTERS</span></div>
-        <div class="brief"><b>41. KAMPALA:</b> Uganda hands out 3.3 million mosquito nets. <span class="src">&middot; PARROTS UG</span></div>
-        <div class="brief"><b>42. CANBERRA:</b> Australia moves to ban photos of defence sites. <span class="src">&middot; THE WEST</span></div>
-        <div class="brief"><b>43. PERTH:</b> Ken Wyatt appointed Governor of Western Australia. <span class="src">&middot; NEWSHUB</span></div>
-        <div class="brief"><b>44. PERTH:</b> Western Australia wins permanent gas carve-out. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">32</span> <b>DAR ES SALAAM:</b> Tanzania and Uganda ease trade barriers between them. <span class="src">&middot; DAILY NEWS TZ</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">33</span> <b>HARARE:</b> Zimbabwe&rsquo;s lawyers challenge the term-limit amendment. <span class="src">&middot; NEWSDAY</span></div>
+        <div class="brief"><span class="chip" style="background:#b3261e">34</span> <b>TOKYO:</b> Tokyo&rsquo;s Tori no Ichi festival opens for Ni-no-Tori at Asakusa&rsquo;s shrine. <span class="src">&middot; OTORI SHRINE</span></div>
+        <div class="brief"><span class="chip" style="background:#1d4e89">35</span> <b>SICILY:</b> Bayesian report finds &ldquo;unidentified vulnerability&rdquo; to high winds. <span class="src">&middot; GUARDIAN</span></div>
+        <div class="brief"><span class="chip" style="background:#2e7d32">36</span> <b>WASHINGTON:</b> Obama urges House Democrats to keep reaching red districts. <span class="src">&middot; NYT</span></div>
+        <div class="brief"><span class="chip" style="background:#2e7d32">37</span> <b>WASHINGTON:</b> Trump &ldquo;disappointed&rdquo; Vance won&rsquo;t back Iran war; praises Rubio. <span class="src">&middot; NYT</span></div>
+        <div class="brief"><span class="chip" style="background:#2e7d32">38</span> <b>REDMOND:</b> Microsoft&rsquo;s Nadella explains why he asked 60,000 staff to leave. <span class="src">&middot; TECHCRUNCH</span></div>
+        <div class="brief"><span class="chip" style="background:#1d4e89">39</span> <b>LONDON:</b> BBC finds new sexual harassment claims at McDonald&rsquo;s. <span class="src">&middot; BBC</span></div>
+        <div class="brief"><span class="chip" style="background:#1d4e89">40</span> <b>KYIV:</b> Russia intensifies strikes on Ukraine&rsquo;s power grid. <span class="src">&middot; REUTERS</span></div>
+        <div class="brief"><span class="chip" style="background:#c2410c">41</span> <b>KAMPALA:</b> Uganda hands out 3.3 million mosquito nets. <span class="src">&middot; PARROTS UG</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">42</span> <b>CANBERRA:</b> Australia moves to ban photos of defence sites. <span class="src">&middot; THE WEST</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">43</span> <b>PERTH:</b> Ken Wyatt appointed Governor of Western Australia. <span class="src">&middot; NEWSHUB</span></div>
+        <div class="brief"><span class="chip" style="background:#0f766e">44</span> <b>PERTH:</b> Western Australia wins permanent gas carve-out. <span class="src">&middot; THE WEST</span></div>
       </div>
     </div>
   </div>

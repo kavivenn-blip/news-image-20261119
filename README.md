@@ -1,10 +1,10 @@
-# news-image-20261119 — "45-story data dashboard"
+# news-image-20261119 — "44-story data dashboard"
 
 [![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
 [![rank](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
-One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 45-story data dashboard: masthead with the date in giant type, 3 lead stories, 10 featured stories, a numbered-pin world map, 32 one-line briefs, a BY THE NUMBERS strip, and a verification footer.
+One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 two-line briefs, a BY THE NUMBERS strip, and a verification footer.
 
 ## How it works
 
@@ -24,6 +24,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 - `main.py` — the entry program (stdlib only)
 - `entry.png` — the dashboard image
 - `render.html` — the page that was screenshotted to make `entry.png`
-- `RESEARCH.md` — the 45 verified stories, their sources, and the framing choices
+- `RESEARCH.md` — the 44 verified stories, their sources, and the framing choices
 
 Built for the [make.fun bounty "Sum up 19 November's world news in one image"](https://make.fun/bounty/news-image-20261119).
