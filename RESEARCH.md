@@ -85,7 +85,11 @@ Nation front page of 19 Nov ("floods that killed six and displaced hundreds").
 41. Australia moves to ban photos of defence sites. Source: The West.
 42. Ken Wyatt appointed Governor of Western Australia. Source: NewsHub.
 43. Colombia braces for a national strike today. Sources: Colombia Unfiltered, US State Dept.
-44. Kenya floods kill six, displace hundreds. Sources: Daily Nation / The Standard, front pages 19 Nov (re-verified at build time).
+44. Kenya floods displace hundreds. Sources: Daily Nation / The Standard,
+front pages 19 Nov (re-verified at build time). NOTE (revisi 19 Nov ~11:20
+WIB): angka korban DIHAPUS dari gambar — tidak pasti (Daily Nation: enam;
+laporan lain 17 Nov: 37 tewas di Nairobi saja; angka "18" dari cek otomatis
+ternyata artikel Mei 2026, JANGAN dipakai).
 45. Western Australia wins permanent gas carve-out. Source: The West.
 
 ## Coverage
