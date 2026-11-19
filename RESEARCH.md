@@ -2,6 +2,15 @@
 
 Every story below was reported on Thursday 19 November 2026 (event happened or
 was first reported that day, any time zone). One fact per line, with its source.
+Revisi ke-9 (19 Nov ~16:30 WIB): brief #23 = COP31 Antalya (pengganti Bancroft,
+Perth — Oseania terlemah); COP31 TERVERIFIKASI Kamis 19 Nov (teks baru due Kamis
+pagi, sidang pleno penutup mulai Kamis, 21 isu belum selesai; draft usulkan
+adaptation finance ≥$120bn/tahun pada 2035 — BUKAN "dana $120bn"; framing
+"ministers take over" TIDAK dipakai — itu Selasa 17 Nov). Sumber: Turkey Recap
+19 Nov 06:11 UTC, UN News 18 Nov 14:04 EST. Card 12 sumber dikoreksi jadi
+TrendPulse (ref. IGN). Judul (masthead + judul kartu) kini serif ala koran.
+Bar region: EUROPE 7, OCEANIA 10; total tetap 44; PERTH 3→2.
+
 Revisi ke-2 (19 Nov ~12:00 WIB): total 44 cerita (bukan 45) — Jeffries (#7 lama)
 dan Voyager (#16 lama) dipindah ke DATE CHECK setelah diverifikasi beritanya
 Rabu 18 Nov; Ocean Photographer of the Year ditambahkan sebagai kartu #19;
@@ -83,7 +92,13 @@ ulang dari label kota di gambar.
 22. Bumrah removes Latham for a duck off the third ball, day one of the first
     India–New Zealand Test (New Zealand — venue tidak terverifikasi, label
     negara dipakai). Source: CricTracker.
-23. Bancroft opens up on sandpaper; Warner backs him (Perth). Source: The West Australian.
+23. COP31 enters its final 48 hours — new draft texts due Thursday, 21 issues
+    open, closing plenary begins (Antalya). Sources: Turkey Recap 19 Nov
+    06:11 UTC, UN News 18 Nov 14:04 EST. (Ditambahkan di revisi ke-9;
+    pengganti Bancroft #23 lama — wawancara soal skandal 2018, peg berita
+    paling lemah. Framing "ministers take over" TIDAK dipakai: itu Selasa
+    17 Nov. Angka "$120bn" TIDAK dipakai sebagai dana: draft usulkan
+    adaptation finance ≥$120bn/tahun pada 2035.)
 24. Rising Stars Asia Cup opens in Doha. Source: Wisden.
 25. Trump weighs new strikes on Iran as Israel urges action (Washington).
     Source: NYT.
@@ -132,12 +147,12 @@ ulang dari label kota di gambar.
 ## Coverage
 
 44 stories, 6 continents + world (wilayah = lokasi peristiwa):
-EUROPE 6 (2, 5, 6, 35, 39, 40) · AMERICAS 9 (7, 12, 13, 14, 18, 25, 36, 37, 38)
+EUROPE 7 (2, 5, 6, 23, 35, 39, 40) · AMERICAS 9 (7, 12, 13, 14, 18, 25, 36, 37, 38)
 · ASIA 5 (1, 8, 10, 11, 34) · MIDEAST 5 (3, 4, 16, 17, 24) ·
-AFRICA 6 (20, 30, 31, 32, 33, 41) · OCEANIA 11 (9, 19, 22, 23, 26, 27, 28, 29,
-42, 43, 44) · WORLD 2 (15, 21). Total 6+9+5+5+6+11+2 = 44.
+AFRICA 6 (20, 30, 31, 32, 33, 41) · OCEANIA 10 (9, 19, 22, 26, 27, 28, 29,
+42, 43, 44) · WORLD 2 (15, 21). Total 7+9+5+5+6+10+2 = 44.
 Masthead "44 STORIES" = jumlah aktual di gambar. Kota dengan 2+ cerita (dari
-label kota di gambar): WASHINGTON 4 · SYDNEY 3 · PERTH 3 · NEW YORK 2 ·
+label kota di gambar): WASHINGTON 4 · SYDNEY 3 · PERTH 2 · NEW YORK 2 ·
 TOKYO 2 · GAZA 2 · CANBERRA 2 · LONDON 2.
 
 ## Deliberately left out
@@ -157,3 +172,10 @@ hire (18 Nov), Elton John ARIA speech (18 Nov), SA–Bangladesh Test (mulai
 (18 Nov), Florida pastor Sanon convicted (18 Nov), OFAC Hezbollah sanctions
 (18 Nov), Pakistan petrol cut (18 Nov), Panama second arrest (18 Nov),
 Port of Darwin / Albanese–Xi meeting (18 Nov).
+Riset 6 cerita besar (19 Nov ~15:20 WIB, perintah user): 4 cerita yang dibawa
+top-10 TERVERIFIKASI Rabu 18 Nov dan SENGAJA TIDAK ditambahkan (lapangan salah
+tanggal): Mélenchon (Reuters 18 Nov 10:12 UTC), cocaine Libya (Reuters 18 Nov
+08:34 UTC; Derna, bukan Benghazi), Florida floods (CNN 18 Nov; hujan Selasa
+malam → Rabu pagi), Duckett 133 (match Rabu 18 Nov, Hobart bukan Sydney).
+APEC Shenzhen Declaration: TIDAK TAHU (adopsi ditargetkan Kamis, belum
+terkonfirmasi) — tidak ditambahkan.
